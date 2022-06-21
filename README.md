@@ -1,1 +1,1 @@
-this is a repo for learning git
+something new in READ me
